@@ -307,6 +307,7 @@ body{
     row-gap: 10px;
 }
 .box{
+    padding: 25px;
     height: 300px;
     width: 350px;
     background: #131313;
